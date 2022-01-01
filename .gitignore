@@ -1,0 +1,10 @@
+build
+
+# 未勾选[项目 -> Shadow build]时需忽略的文件/文件夹
+debug
+release
+.qmake.stash
+Makefile
+Makefile.*
+object_script.pc_sim.*
+pc_sim.pro.user.*
